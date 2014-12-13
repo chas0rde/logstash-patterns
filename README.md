@@ -3,5 +3,10 @@ logstash-patterns
 
 Collection of logstash-patterns for various things
 
-Free to use.
-Attitions to the repository welcome
+This repository collects patterns for logstash **grok** to match syslogs et cetera from various systems
+
+For more info on logstash visit [logstash.net](http://logstash.net)
+
+All patterns are free to use, modify and share :)
+
+Additions to the repo are welcome
